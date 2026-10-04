@@ -9,15 +9,13 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 46,
-    "nombre": "1.11.0",
+    "code": 47,
+    "nombre": "1.11.1",
     "bloqueante": false,
     "notas": [
-      "Barra de abajo nueva: solo cuatro botones (Inicio, Avisos, Privados y Suscripciones). Todo lo demás está en tu avatar, arriba a la derecha, y en Opciones puedes elegir qué va abajo",
-      "Citas y Menciones, juntas en «Avisos»",
-      "En la lista de hilos, debajo de la hora, quién escribió el último mensaje (se puede apagar en Opciones → Apariencia)",
-      "Perfiles más completos: título, fecha de alta entera, firma y «Sobre mí» (coche, ubicación…)",
-      "Nuevo «Mis mensajes», y en los mensajes de un usuario ya puedes bajar hasta el final, no solo los 25 primeros"
+      "Arreglado un fallo de seguridad: al cargar ciertas imágenes de un mensaje, la app podía mandar tu sesión del foro a una web que no era ForoCoches. Gracias a @ivhere por avisar",
+      "Las cuentas sin foto ya muestran un avatar en vez de un hueco en blanco",
+      "El panel de tu avatar, más compacto"
     ]
   }
 }
