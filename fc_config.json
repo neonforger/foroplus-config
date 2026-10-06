@@ -9,14 +9,13 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 48,
-    "nombre": "1.11.1",
+    "code": 49,
+    "nombre": "1.11.2",
     "bloqueante": false,
     "notas": [
-      "Arreglado un fallo de seguridad que encontró @ivhere: en ciertos casos la app podía mandar tu sesión a otra web al cargar una imagen. En la práctica era muy difícil que pasara, porque el foro sirve todas las imágenes desde sus propios servidores, pero ya está cerrado del todo",
-      "Las cuentas sin foto ya muestran un avatar en vez de un hueco en blanco",
-      "El panel de tu avatar, más compacto",
-      "Política de privacidad actualizada: ahora explica que, si adjuntas una foto a un mensaje, se sube a catbox.moe (y se le quita la ubicación GPS), y ya no habla de notificaciones porque la app no trabaja en segundo plano"
+      "Los móviles con Android 7 ya pueden abrir la app: se cerraba nada más arrancar",
+      "En Android 7, añadir una opción a una encuesta ya no cierra la app",
+      "ForoPlus ahora es de código abierto (licencia GPL-3.0): el código está en github.com/neonforger/foroplus"
     ]
   }
 }
