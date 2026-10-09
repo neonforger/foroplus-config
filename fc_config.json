@@ -19,7 +19,7 @@
     ]
   },
   "mas18": {
-    "activo": false,
+    "activo": true,
     "url": "https://raw.githubusercontent.com/neonforger/foroplus-mas18/datos/paginas/"
   }
 }
