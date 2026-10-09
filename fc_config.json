@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "newSkinMarker": ".menu-item, .user-notifications-count-wrapper",
+  "threadLink": "a[href*=\"showthread.php?t=\"]",
+  "oldThreadTitle": "a[id^=\"thread_title_\"]",
+  "forumAuthorOld": "[onclick*=\"member.php\"]",
+  "ignoredPlaceholder": "oculto porque",
+  "postAuthorOld": "span.xsaid a[href*=\"member.php\"]",
+  "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
+  "postContainerNew": "div.postbit_wrapper",
+  "actualizacion": {
+    "code": 49,
+    "nombre": "1.11.2",
+    "bloqueante": false,
+    "notas": [
+      "Los móviles con Android 7 ya pueden abrir la app: se cerraba nada más arrancar",
+      "En Android 7, añadir una opción a una encuesta ya no cierra la app",
+      "ForoPlus ahora es de código abierto (licencia GPL-3.0): el código está en github.com/neonforger/foroplus"
+    ]
+  },
+  "mas18": {
+    "activo": true,
+    "url": "https://raw.githubusercontent.com/neonforger/foroplus-mas18/datos/paginas/"
+  }
+}
