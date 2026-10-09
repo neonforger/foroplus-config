@@ -17,5 +17,9 @@
       "En Android 7, añadir una opción a una encuesta ya no cierra la app",
       "ForoPlus ahora es de código abierto (licencia GPL-3.0): el código está en github.com/neonforger/foroplus"
     ]
+  },
+  "mas18": {
+    "activo": true,
+    "url": "https://raw.githubusercontent.com/neonforger/foroplus-mas18/datos/paginas/"
   }
 }
