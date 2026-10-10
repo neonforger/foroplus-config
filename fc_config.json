@@ -9,15 +9,15 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 50,
-    "nombre": "1.12.0",
+    "code": 51,
+    "nombre": "1.13.0",
     "bloqueante": false,
     "notas": [
-      "Nueva sección +18, opcional y apagada de salida: los hilos etiquetados del foro en su propia pestaña, con filtros. Se activa en Opciones",
-      "Guarda o comparte cualquier foto o GIF del foro: botones en el visor, o mantén pulsada la imagen",
-      "Busca los mensajes de un usuario, con sugerencias de nombres como en la web",
-      "Puedes ocultar los hilos +18 y +16 de las listas normales desde Opciones",
-      "Punto verde en el avatar de quien está conectado, y en Popurrí cada hilo dice de qué subforo es"
+      "Nuevo estilo Tarjetas, en Opciones → Apariencia: hilos, mensajes, avisos y privados en tarjetas, con más aire. La Compacta sigue como estaba",
+      "Lee a pantalla completa: al bajar por un hilo se esconden las barras, y vuelven en cuanto subes un poco o llegas al final de la página",
+      "Pantallas renovadas: la cabecera del hilo, el editor con cada cita en su tarjeta, tu ficha y la de otros usuarios, los privados, las opciones y los diálogos",
+      "Apariencia más fácil de ajustar: tema y tamaños con botones, y una vista previa del tamaño de letra",
+      "El autocompletado del móvil ya no se mete en la respuesta rápida ni en el editor"
     ]
   },
   "mas18": {
