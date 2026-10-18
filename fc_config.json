@@ -21,5 +21,12 @@
   "mas18": {
     "activo": true,
     "url": "https://raw.githubusercontent.com/neonforger/foroplus-mas18/datos/paginas/"
-  }
+  },
+  "emoticonos": [
+    {
+      "nombre": "SEÑORADETODOS",
+      "fichero": "senoradetodos.gif",
+      "v": 2
+    }
+  ]
 }
