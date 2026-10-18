@@ -9,15 +9,15 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 51,
-    "nombre": "1.13.0",
+    "code": 52,
+    "nombre": "1.14.0",
     "bloqueante": false,
     "notas": [
-      "Nuevo estilo Tarjetas, en Opciones → Apariencia: hilos, mensajes, avisos y privados en tarjetas, con más aire. La Compacta sigue como estaba",
-      "Lee a pantalla completa: al bajar por un hilo se esconden las barras, y vuelven en cuanto subes un poco o llegas al final de la página",
-      "Pantallas renovadas: la cabecera del hilo, el editor con cada cita en su tarjeta, tu ficha y la de otros usuarios, los privados, las opciones y los diálogos",
-      "Apariencia más fácil de ajustar: tema y tamaños con botones, y una vista previa del tamaño de letra",
-      "El autocompletado del móvil ya no se mete en la respuesta rápida ni en el editor"
+      "Emoticonos propios de ForoPlus: el selector tiene ahora dos pestañas, Forocoches y ForoPlus, que estrena el SEÑORADETODOS. Quien lea el foro desde la web también lo ve",
+      "El tamaño de la letra se ajusta con dos barras en Opciones → Apariencia: una para los mensajes y otra para los títulos de la lista",
+      "Los mensajes editados lo dicen al pie, con la fecha, y los GIF se mueven también al abrirlos a pantalla completa",
+      "Privados: se ven las imágenes, y tocar el nombre de quien te escribe abre su ficha",
+      "Multicita entre hilos, el texto con [SIZE] sale a su tamaño y los enlaces cortos de TikTok ya no dan error al publicar"
     ]
   },
   "mas18": {
