@@ -69,6 +69,11 @@
       "nombre": "SOY MUY ESPECIAL",
       "fichero": "muyespecial.gif",
       "v": 1
+    },
+    {
+      "nombre": "DIABLO",
+      "fichero": "diablo.gif",
+      "v": 1
     }
   ]
 }
