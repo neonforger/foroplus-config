@@ -74,6 +74,11 @@
       "nombre": "DIABLO",
       "fichero": "diablo.gif",
       "v": 1
+    },
+    {
+      "nombre": "ROTO2PAJA",
+      "fichero": "roto2paja.gif",
+      "v": 1
     }
   ]
 }
