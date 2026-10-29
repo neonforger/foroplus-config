@@ -9,15 +9,15 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 52,
-    "nombre": "1.14.0",
+    "code": 53,
+    "nombre": "1.15.0",
     "bloqueante": false,
     "notas": [
-      "Emoticonos propios de ForoPlus: el selector tiene ahora dos pestañas, Forocoches y ForoPlus, que estrena el SEÑORADETODOS. Quien lea el foro desde la web también lo ve",
-      "El tamaño de la letra se ajusta con dos barras en Opciones → Apariencia: una para los mensajes y otra para los títulos de la lista",
-      "Los mensajes editados lo dicen al pie, con la fecha, y los GIF se mueven también al abrirlos a pantalla completa",
-      "Privados: se ven las imágenes, y tocar el nombre de quien te escribe abre su ficha",
-      "Multicita entre hilos, el texto con [SIZE] sale a su tamaño y los enlaces cortos de TikTok ya no dan error al publicar"
+      "Lupa en los hilos: busca un texto en la página que estás leyendo, sin preocuparte de tildes ni mayúsculas, y salta de uno a otro con las flechas",
+      "Los vídeos, tweets y audios salen en su sitio dentro del mensaje, no todos al final, y un Vocaroo citado se queda dentro de la cita",
+      "Al responder un privado puedes recortar la cita con el lápiz o pasarla a texto para editarla, igual que en los hilos",
+      "Tocar una cita o publicar te lleva al mensaje correcto, sin que se quede escondido bajo las barras",
+      "Si un hilo lo han borrado, la app lo dice; y también si una lista sale vacía porque sus hilos son de gente que tienes en ignorados"
     ]
   },
   "mas18": {
