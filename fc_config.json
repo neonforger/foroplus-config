@@ -80,8 +80,8 @@
     }
   ],
   "aviso": {
-    "id": "subida-fotos-catbox-2026-11",
-    "texto": "La subida de fotos falla porque el servicio externo que usamos (catbox) no está funcionando bien. En la próxima actualización buscaremos una solución más estable.",
+    "id": "subida-fotos-catbox-pausa-2026-11-04",
+    "texto": "Catbox, el servicio que usamos para subir fotos, ha pausado las subidas. En cuanto vuelva, funcionará otra vez; mientras, estamos buscando una alternativa estable.",
     "fijo": false
   }
 }
