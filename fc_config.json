@@ -9,13 +9,12 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 54,
-    "nombre": "1.16.0",
-    "bloqueante": false,
+    "code": 55,
+    "nombre": "1.16.1",
+    "bloqueante": true,
     "notas": [
-      "Guarda un hilo descargado como PDF, o imprímelo: desde el botón de cada copia en Descargados o desde el menú del hilo",
-      "Los reportes llegan de verdad: ahora hay que escribir por qué reportas, como en la web, y la app te dice si ForoCoches lo ha aceptado. Antes, los que no eran de tipo 'Otros' no llegaban",
-      "Las publicaciones de Instagram con varias fotos se pasan deslizando de lado, sin que se queden a medias entre dos fotos"
+      "La app vuelve a cargar el foro: ForoCoches ha puesto la verificación de Cloudflare en todas sus páginas y la app se quedaba en 'No se pudo cargar el listado'. Ahora te enseña la verificación y, al superarla, vuelve sola a la lista",
+      "Casi siempre la verificación pasa sola en unos segundos: no tienes que tocar nada, solo esperar"
     ]
   },
   "mas18": {
