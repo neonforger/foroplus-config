@@ -79,8 +79,10 @@
     }
   ],
   "aviso": {
-    "id": "subida-fotos-catbox-pausa-2026-11-04",
-    "texto": "Catbox, el servicio que usamos para subir fotos, ha pausado las subidas. En cuanto vuelva, funcionará otra vez; mientras, estamos buscando una alternativa estable.",
-    "fijo": false
+    "id": "cloudflare-actualiza-1.16.1-2026-11-07",
+    "texto": "¿No te carga el foro? ForoCoches ha activado una verificación de Cloudflare: actualiza a la 1.16.1 en cuanto Google Play te la ofrezca. Toca aquí para unirte al grupo de Telegram y enterarte de las novedades.",
+    "fijo": false,
+    "hasta": 54,
+    "enlace": "https://t.me/foroplus"
   }
 }
