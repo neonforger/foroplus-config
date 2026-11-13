@@ -9,12 +9,13 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 55,
-    "nombre": "1.16.1",
-    "bloqueante": true,
+    "code": 56,
+    "nombre": "1.17.0",
+    "bloqueante": false,
     "notas": [
-      "La app vuelve a cargar el foro: ForoCoches ha puesto la verificación de Cloudflare en todas sus páginas y la app se quedaba en 'No se pudo cargar el listado'. Ahora te enseña la verificación y, al superarla, vuelve sola a la lista",
-      "Casi siempre la verificación pasa sola en unos segundos: no tienes que tocar nada, solo esperar"
+      "Notas sobre usuarios: apúntate lo que quieras de alguien desde el menú de su mensaje (\"Nota sobre @…\"). Se ve bajo su nombre en todos sus mensajes y solo la ves tú: se guarda en tu móvil y nunca llega a ForoCoches",
+      "Reportar vuelve a funcionar bien: la app ya no se queda enseñando la página de ForoCoches a mitad de reporte ni lo pierde por el camino",
+      "Lo mismo al iniciar sesión cuando ForoCoches pide la verificación de Cloudflare"
     ]
   },
   "mas18": {
